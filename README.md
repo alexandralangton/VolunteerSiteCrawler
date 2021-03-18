@@ -5,7 +5,7 @@ This node script will check the website https://www.sharp.com/health-classes/vol
 # To run the script
 
 ```js
-npm clone https://github.com/alexandralangton/VolunteerSiteCrawler
+npm clone https://github.com/alexandralangton/VolunteerSiteCrawler.git
 cd VolunteerSiteCrawler
 npm install
 node crawler.js
